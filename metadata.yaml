@@ -1,0 +1,43 @@
+_repo: Through-a-Microscope--13-Something-of-the-Science-Together-with-many-Curious-Observations-Ind__38428
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38428-h/images/i_cover.png
+creator:
+  authors:
+  - agent_name: Sargent, Frederick Leroy
+    birthdate: 1863
+    deathdate: 1928
+    gutenberg_agent_id: '39465'
+    url: http://www.gutenberg.org/2009/agents/39465
+  - agent_name: Treat, Mary
+    alias: Treat, Mary Lua Adelia Davis Allen
+    birthdate: 1835
+    gutenberg_agent_id: '39464'
+    url: http://www.gutenberg.org/2009/agents/39464
+  - agent_name: Wells, Samuel
+    gutenberg_agent_id: '38399'
+    url: http://www.gutenberg.org/2009/agents/38399
+description: ''
+gutenberg_bookshelf: Microscopy
+gutenberg_issued: '2011-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38428'
+  lccn: 06028811
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Microscopes'
+- !lcc 'QH'
+- !lcsh 'Microscopy'
+- !lcsh 'Natural history'
+tableOfContents: Through a microscope -- The outfit -- The objects -- Home experiments
+  -- Cochituate water -- Interesting objects -- The brickmaker -- The vorticellas
+  -- The Utricularia -- Free swimming animalcules -- On the beach -- Rizopods -- How
+  to see a dandelion -- How to see a bumble bee -- Some little things to see.
+title: "Through a Microscope\r\nSomething of the Science, Together with many Curious\
+  \ Observations Indoor and Out and Directions for a Home-made Microscope."
+url: http://www.gutenberg.org/ebooks/38428
