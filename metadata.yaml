@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '38399'
     url: http://www.gutenberg.org/2009/agents/38399
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38428#Through-a-Microscope--13-Something-of-the-Science-Together-with-many-Curious-Observations-Ind_
 gutenberg_bookshelf: Microscopy
 gutenberg_issued: '2011-12-28'
 gutenberg_type: Text
